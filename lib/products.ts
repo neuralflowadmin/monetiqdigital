@@ -38,7 +38,7 @@ export const PRODUCTS: Product[] = [
     category: "AI & Productivity",
     price: 99,
     originalPrice: 299,
-    image: "/products/ai-toolkit.svg",
+    image: "/products/ai-tools.jpg",
     shortDescription:
       "100 AI tools across writing, design, video, audio, coding and marketing.",
     description:
@@ -50,6 +50,7 @@ export const PRODUCTS: Product[] = [
       "Instant digital download",
     ],
   },
+
   {
     id: "meesho-course",
     slug: "how-to-sell-products-on-meesho-complete-video-course",
@@ -57,7 +58,7 @@ export const PRODUCTS: Product[] = [
     category: "Courses",
     price: 99,
     originalPrice: 499,
-    image: "/products/meesho-course.svg",
+    image: "/products/meesho-course.jpg",
     shortDescription:
       "A step-by-step video course on selling products on Meesho.",
     description:
@@ -69,6 +70,7 @@ export const PRODUCTS: Product[] = [
       "Beginner-friendly, self-paced video lessons",
     ],
   },
+
   {
     id: "fitness-reels",
     slug: "mega-fitness-reel-bundle-1000-premium-reels",
@@ -76,7 +78,7 @@ export const PRODUCTS: Product[] = [
     category: "Reel Bundles",
     price: 99,
     originalPrice: 499,
-    image: "/products/fitness-reels.svg",
+    image: "/products/fitness-reels.jpg",
     shortDescription:
       "1,000+ ready-to-use fitness, yoga and transformation reels.",
     description:
@@ -88,6 +90,7 @@ export const PRODUCTS: Product[] = [
       "Instant access after purchase",
     ],
   },
+
   {
     id: "170k-reels",
     slug: "170k-ultimate-mega-reel-bundle",
@@ -95,7 +98,7 @@ export const PRODUCTS: Product[] = [
     category: "Reel Bundles",
     price: 99,
     originalPrice: 999,
-    image: "/products/170k-reels.svg",
+    image: "/products/mega-reels.jpg",
     shortDescription:
       "170K+ reels spanning AI, business, fitness, luxury and more.",
     description:
