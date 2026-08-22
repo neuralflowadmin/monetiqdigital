@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0C0F"/>
+      <stop offset="1" stop-color="#15161c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g)"/>
+  <rect x="40" y="40" width="720" height="920" fill="none" stroke="#3B5BFF" stroke-opacity="0.35" stroke-width="1.5"/>
+  <circle cx="700" cy="120" r="3" fill="#3B5BFF"/>
+  <text x="60" y="900" font-family="Space Grotesk, Arial, sans-serif" font-size="26" fill="#3B5BFF" letter-spacing="4">MONETIQ</text>
+  <text x="60" y="500" font-family="Space Grotesk, Arial, sans-serif" font-size="46" fill="#FAFAF9" font-weight="700">Meesho Course</text>
+</svg>
